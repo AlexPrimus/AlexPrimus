@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Music and currently coding
+- 👀 I’m interested in everything related to sound
 - 🌱 Student of Sound and Music Production
 
 <!---
